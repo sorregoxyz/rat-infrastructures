@@ -1,0 +1,167 @@
+location,date,time,rats,rats_actions,people,people_actions,results,rats_killed
+G1,4/10/21,07:42,1,Running,3,Walking,People ran away,0
+G1,4/10/21,07:44,1,Running,1,Walking,Both ran away,0
+G2,4/10/21,09:35,4,Exploring,2,Walking,No relation,0
+G2,4/10/21,10:03,2,Exploring,2,Hunting,Rat killed,1
+G2,4/10/21,15:26,2,Eating,1,Walking,People ran away,0
+G1,4/10/21,16:48,1,Eating,2,Walking,Both ran away,0
+G1,4/10/21,17:20,1,Walking a fence,2,Hunting,Rat ran away,0
+G1,5/10/21,08:06,2,Exploring,1,Walking,People ran away,0
+G1,5/10/21,08:19,1,Running,1,Standing,No relation,0
+G1,5/10/21,08:19,3,Eating,1,Walking,People ran away,0
+G1,5/10/21,08:47,1,Exploring,2,Standing,Both ran away,0
+G2,5/10/21,11:58,2,Running,1,Walking,Both ran away,0
+G2,5/10/21,12:06,2,Exploring,3,Standing,Both ran away,0
+G2,5/10/21,16:31,1,Eating,1,Walking,People ran away,0
+G1,5/10/21,18:22,3,Exploring,2,Hunting,Rat killed,2
+G1,6/10/21,08:04,1,Exploring,1,Hunting,Rat ran away,0
+G1,6/10/21,08:20,1,Walking a fence,1,Walking,People ran away,0
+G1,6/10/21,09:00,2,Eating,1,Standing,People ran away,0
+G2,6/10/21,10:26,4,Eating,3,Hunting,Rat killed,1
+G2,6/10/21,10:43,1,Running,1,Walking,People ran away,0
+G2,6/10/21,11:12,2,Eating,1,Walking,Both ran away,0
+G2,6/10/21,16:48,1,Eating,2,Walking,People ran away,0
+G1,6/10/21,18:02,1,Walking a fence,1,Walking,People ran away,0
+G1,7/10/21,07:26,2,Exploring,4,Hunting,Rat ran away,0
+G1,7/10/21,07:26,2,Exploring,4,Hunting,Rat killed,1
+G1,7/10/21,07:34,1,Exploring,2,Standing,No relation,0
+G1,7/10/21,08:11,3,Exploring,2,Walking,People ran away,0
+G1,7/10/21,08:24,2,Running,1,Walking,People ran away,0
+G2,7/10/21,09:16,1,Exploring,4,Walking,Both ran away,0
+G2,7/10/21,17:35,1,Eating,1,Standing,People ran away,0
+G2,7/10/21,17:44,2,Running,1,Walking,People ran away,0
+G1,7/10/21,19:06,1,Exploring,2,Standing,No relation,0
+G1,7/10/21,19:38,3,Exploring,2,Hunting,Rat ran away,0
+G1,8/10/21,07:47,1,Running,1,Walking,People ran away,0
+G1,8/10/21,07:51,2,Exploring,2,Standing,Both ran away,0
+G1,8/10/21,08:09,1,Exploring,5,Walking,Rat ran away,0
+G1,8/10/21,08:12,1,Eating,1,Walking,No relation,0
+G2,8/10/21,09:32,3,Exploring,1,Walking,People ran away,0
+G2,8/10/21,09:44,1,Exploring,3,Hunting,Rat killed,1
+G2,8/10/21,10:03,1,Exploring,2,Walking,People ran away,0
+G1,8/10/21,16:36,2,Eating,2,Walking,No relation,0
+G1,8/10/21,16:40,2,Eating,1,Standing,People ran away,0
+G1,8/10/21,16:51,1,Walking a fence,1,Walking,People ran away,0
+G1,8/10/21,17:09,3,Eating,1,Walking,People ran away,0
+G1,9/10/21,07:43,4,Exploring,1,Walking,Both ran away,0
+G1,9/10/21,07:52,1,Exploring,3,Hunting,Rat killed,1
+G1,9/10/21,08:11,1,Exploring,2,Walking,Rat ran away,0
+G1,9/10/21,08:15,2,Running,2,Standing,Both ran away,0
+G1,9/10/21,09:36,2,Eating,1,Walking,People ran away,0
+G2,9/10/21,10:55,1,Eating,4,Hunting,Rat killed,1
+G2,9/10/21,11:01,1,Running,2,Walking,Both ran away,0
+G2,9/10/21,11:09,3,Exploring,3,Walking,People ran away,0
+G1,10/10/21,08:09,2,Eating,1,Standing,People ran away,0
+G1,10/10/21,08:12,1,Running,4,Standing,Both ran away,0
+G1,10/10/21,08:23,2,Exploring,2,Hunting,Rat ran away,0
+G1,10/10/21,08:28,2,Exploring,1,Walking,No relation,0
+G1,10/10/21,08:33,1,Running,1,Walking,No relation,0
+G2,10/10/21,09:42,1,Eating,2,Walking,Rat ran away,0
+G2,10/10/21,09:48,5,Exploring,1,Walking,People ran away,0
+G2,10/10/21,10:16,3,Exploring,3,Hunting,Rat killed,2
+G2,10/10/21,10:21,2,Running,5,Walking,Rat ran away,0
+G1,10/10/21,17:28,1,Walking a fence,2,Standing,Both ran away,0
+G1,10/10/21,17:35,1,Exploring,1,Walking,Both ran away,0
+G1,10/10/21,17:39,2,Exploring,1,Walking,Both ran away,0
+G1,10/10/21,17:43,1,Running,2,Walking,Rat ran away,0
+G1,11/10/21,07:56,1,Running,1,Standing,People ran away,0
+G1,11/10/21,08:04,3,Running,4,Walking,People ran away,0
+G2,11/10/21,08:58,2,Eating,2,Hunting,Rat ran away,0
+G2,11/10/21,09:09,1,Exploring,2,Walking,Both ran away,0
+G2,11/10/21,09:12,3,Eating,1,Walking,No relation,0
+G2,11/10/21,09:21,2,Exploring,4,Walking,People ran away,0
+G2,11/10/21,17:09,2,Exploring,2,Walking,No relation,0
+G1,11/10/21,17:18,1,Eating,1,Hunting,Rat killed,1
+G1,11/10/21,17:18,1,Running,1,Hunting,Rat ran away,0
+G1,12/10/21,08:12,1,Running,1,Standing,People ran away,0
+G1,12/10/21,08:19,2,Running,3,Walking,People ran away,0
+G1,12/10/21,08:24,2,Exploring,1,Standing,People ran away,0
+G1,12/10/21,08:31,3,Eating,4,Standing,People ran away,0
+G2,12/10/21,10:08,1,Exploring,2,Hunting,Rat ran away,0
+G2,12/10/21,10:13,1,Eating,1,Walking,Both ran away,0
+G2,12/10/21,10:18,2,Eating,1,Walking,People ran away,0
+G2,12/10/21,10:22,1,Exploring,1,Walking,People ran away,0
+G2,12/10/21,10:35,2,Running,3,Walking,People ran away,0
+G1,12/10/21,17:46,2,Running,2,Standing,No relation,0
+G1,12/10/21,17:50,4,Exploring,2,Hunting,Rat ran away,0
+G1,12/10/21,17:56,1,Eating,1,Walking,Both ran away,0
+G1,12/10/21,18:00,1,Walking a fence,1,Standing,People ran away,0
+G1,13/10/21,07:54,2,Running,2,Walking,People ran away,0
+G1,13/10/21,08:11,1,Running,1,Standing,People ran away,0
+G1,13/10/21,08:23,3,Exploring,5,Walking,People ran away,0
+G1,13/10/21,08:28,1,Running,2,Standing,People ran away,0
+G1,13/10/21,09:02,1,Eating,3,Hunting,Rat ran away,0
+G2,13/10/21,10:50,2,Running,1,Walking,Both ran away,0
+G2,13/10/21,11:08,1,Running,2,Walking,Both ran away,0
+G2,13/10/21,11:11,2,Eating,2,Walking,Both ran away,0
+G2,13/10/21,11:24,2,Exploring,1,Walking,People ran away,0
+G2,13/10/21,11:33,2,Exploring,1,Walking,People ran away,0
+G2,13/10/21,11:42,1,Exploring,2,Walking,No relation,0
+G2,13/10/21,11:55,3,Exploring,1,Walking,People ran away,0
+G1,13/10/21,18:26,1,Running,1,Standing,No relation,0
+G1,13/10/21,18:34,2,Exploring,1,Standing,People ran away,0
+G1,14/10/21,08:06,1,Running,2,Walking,Both ran away,0
+G1,14/10/21,08:11,1,Exploring,3,Hunting,Rat killed,1
+G1,14/10/21,08:26,1,Running,2,Walking,People ran away,0
+G1,14/10/21,08:40,2,Exploring,1,Walking,People ran away,0
+G2,14/10/21,10:02,1,Exploring,2,Walking,People ran away,0
+G2,14/10/21,10:15,4,Exploring,2,Walking,Both ran away,0
+G2,14/10/21,10:37,2,Eating,1,Walking,Rat ran away,0
+G1,14/10/21,17:39,1,Exploring,2,Standing,Rat ran away,0
+G1,14/10/21,17:42,1,Eating,3,Walking,Both ran away,0
+G1,14/10/21,17:56,3,Exploring,1,Walking,People ran away,0
+G1,14/10/21,18:09,2,Running,1,Walking,People ran away,0
+G1,14/10/21,18:21,2,Running,2,Standing,People ran away,0
+G1,14/10/21,18:33,1,Running,1,Standing,No relation,0
+G1,14/10/21,18:37,1,Eating,1,Standing,People ran away,0
+G1,15/10/21,07:26,1,Exploring,4,Hunting,Rat killed,1
+G1,15/10/21,07:31,5,Exploring,1,Standing,People ran away,0
+G2,15/10/21,08:56,2,Exploring,1,Walking,People ran away,0
+G2,15/10/21,09:31,2,Running,1,Walking,People ran away,0
+G2,15/10/21,09:44,1,Running,2,Walking,Both ran away,0
+G1,16/10/21,08:15,2,Running,1,Standing,People ran away,0
+G1,16/10/21,08:23,3,Exploring,2,Hunting,Rat ran away,0
+G1,16/10/21,08:36,1,Exploring,2,Walking,People ran away,0
+G1,16/10/21,08:41,1,Walking a fence,1,Walking,People ran away,0
+G1,16/10/21,09:03,2,Exploring,1,Standing,Both ran away,0
+G1,16/10/21,09:11,1,Eating,1,Standing,No relation,0
+G1,16/10/21,09:16,2,Exploring,2,Walking,People ran away,0
+G2,16/10/21,09:29,1,Exploring,3,Walking,People ran away,0
+G2,16/10/21,09:33,3,Exploring,2,Hunting,Rat ran away,0
+G2,16/10/21,09:46,1,Running,1,Walking,People ran away,0
+G2,16/10/21,10:13,1,Running,1,Walking,People ran away,0
+G1,16/10/21,18:11,2,Eating,4,Walking,Both ran away,0
+G1,16/10/21,18:19,2,Exploring,3,Hunting,Rat killed,2
+G1,16/10/21,18:25,1,Running,1,Walking,People ran away,0
+G1,16/10/21,18:34,2,Running,2,Walking,People ran away,0
+G1,17/10/21,07:44,2,Exploring,2,Walking,Both ran away,0
+G1,17/10/21,07:57,3,Exploring,1,Walking,No relation,0
+G1,17/10/21,08:08,1,Eating,3,Walking,People ran away,0
+G1,17/10/21,08:18,1,Walking a fence,1,Standing,No relation,0
+G2,17/10/21,09:58,2,Running,2,Walking,People ran away,0
+G2,17/10/21,10:11,1,Running,1,Walking,People ran away,0
+G2,17/10/21,10:19,4,Exploring,2,Walking,People ran away,0
+G2,17/10/21,10:34,1,Exploring,1,Walking,Both ran away,0
+G2,17/10/21,10:46,2,Running,1,Walking,People ran away,0
+G2,17/10/21,10:53,1,Exploring,4,Walking,No relation,0
+G2,17/10/21,11:03,1,Eating,2,Hunting,Rat ran away,0
+G2,17/10/21,11:19,2,Exploring,1,Walking,People ran away,0
+G1,17/10/21,19:24,3,Running,2,Walking,People ran away,0
+G1,17/10/21,19:30,2,Eating,1,Standing,No relation,0
+G1,17/10/21,19:43,1,Running,1,Standing,People ran away,0
+G1,18/10/21,08:06,2,Running,5,Walking,Both ran away,0
+G1,18/10/21,08:12,2,Exploring,1,Hunting,Rat ran away,0
+G1,18/10/21,08:23,1,Running,1,Walking,People ran away,0
+G1,18/10/21,08:33,1,Eating,2,Walking,Both ran away,0
+G2,18/10/21,09:44,1,Eating,1,Standing,People ran away,0
+G2,18/10/21,09:53,2,Exploring,2,Walking,Both ran away,0
+G2,18/10/21,10:05,3,Running,2,Hunting,Rat killed,1
+G2,18/10/21,10:12,3,Running,1,Walking,Both ran away,0
+G2,18/10/21,10:26,1,Exploring,3,Walking,Rat ran away,0
+G2,18/10/21,10:33,1,Exploring,1,Walking,People ran away,0
+G2,18/10/21,10:49,2,Exploring,2,Hunting,Rat killed,1
+G1,18/10/21,18:46,1,Eating,1,Walking,People ran away,0
+G1,18/10/21,18:54,1,Eating,1,Walking,People ran away,0
+G1,18/10/21,19:03,2,Running,1,Walking,People ran away,0
+G1,18/10/21,19:12,3,Exploring,4,Standing,Both ran away,0
+G1,18/10/21,19:23,1,Exploring,2,Hunting,Rat killed,1
