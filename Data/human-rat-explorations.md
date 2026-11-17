@@ -24,6 +24,8 @@ This table shows the number of "moments" a person or group of people met a rat. 
 
 ## Rat's actions
 
+This table shows the number of rat individuals recorded in the encounters.  For example, if I recorded an encounter where 4 rats were exploring and met a person, I registered each rat here.
+
 | Before the encounter | G1         | G2         | Total       |
 | -------------------- | ---------- | ---------- | ----------- |
 | Exploring            | 80 (47.1%) | 65 (53.7%) | 145 (49.8%) |
@@ -33,6 +35,8 @@ This table shows the number of "moments" a person or group of people met a rat. 
 | **Total**            | **170**    | **121**    | **291**     |
 
 ## Encounters (rats)
+
+This table shows the number of "moments" a rat or group of rats met a person. For example,  if I recorded an encounter where 4 rats were exploring and met a person, I registered only the incidence.
 
 | Before the encounter | G1         | G2         | Total      |
 | -------------------- | ---------- | ---------- | ---------- |
