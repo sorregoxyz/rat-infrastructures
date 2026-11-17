@@ -1,5 +1,7 @@
 # Human - Rat explorations
 
+Counting and cleaning exercise from the collected data in 2021. This document shows the actions, encounters, and results from these encounters between humans and rats in two areas in Medellín. 
+
 ## People' actions
 
 This table shows the number of human individuals recorded in the encounters.  For example, if I recorded an encounter where 4 people were walking and met a rat, I registered each person here.
